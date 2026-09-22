@@ -1,0 +1,2 @@
+A = "Ricard"
+print(A)
